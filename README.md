@@ -7,3 +7,5 @@ Test
 Detta är gjort med markdown
 
 Hejdå
+
+[Läs mer här](/read-more)
