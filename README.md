@@ -11,3 +11,5 @@ Hejdå
 [Läs mer här](/read-more)
 
 [Artiklar](/articles)
+
+[Thanks](/thank-you)
