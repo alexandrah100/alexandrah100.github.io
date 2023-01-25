@@ -13,3 +13,5 @@ Hejdå
 [Artiklar](/articles)
 
 [Thanks](/thank-you)
+
+[Purchase](/purchase-complete)
