@@ -17,3 +17,10 @@ Hejdå
 [Purchase](/purchase-complete)
 
 [Subscribe](/subscribed)
+
+<a href="/subscribed" data-subValue="50"> Subscribed 50 </a>
+<br>
+<a href="/subscribed" data-subValue="250"> Subscribed 250 </a>
+<br>
+<a href="/subscribed" data-subValue="500"> Subscribed 500 </a>
+<br>
