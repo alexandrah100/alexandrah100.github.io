@@ -18,9 +18,9 @@ Hejdå
 
 [Subscribe](/subscribed)
 
-<a href="/subscribed" class="sub-link"> Subscribed 50 </a>
+<a href="/subscribed" class="sub-link" data-subvalue="50"> Subscribed 50 </a>
 <br>
-<a href="/subscribed" class="sub-link"> Subscribed 250 </a>
+<a href="/subscribed" class="sub-link" data-subvalue="250"> Subscribed 250 </a>
 <br>
-<a href="/subscribed" class="sub-link"> Subscribed 500 </a>
+<a href="/subscribed" class="sub-link" data-subvalue="500"> Subscribed 500 </a>
 <br>
