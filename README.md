@@ -15,3 +15,5 @@ Hejdå
 [Thanks](/thank-you)
 
 [Purchase](/purchase-complete)
+
+[Subscribe](/subscribed)
