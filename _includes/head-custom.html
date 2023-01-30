@@ -22,7 +22,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 function sendReadEvent(title, readingtimeInMinutes) {
 gtag('event','read_article', {
         "title":title,
-    "readingtime_in_minutes":numberOfCharacters,
+    "readingtime_in_minutes":readingtimeInMinutes,
 });
 }
 
