@@ -6,7 +6,6 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 <button id="read-article-1"> Läst artikel </button>
 
-<button id="order1"> Beställ </button>
 
 ## Article 2
 
@@ -14,7 +13,6 @@ It is a long established fact that a reader will be distracted by the readable c
 
 <button id="read-article-2"> Läst artikel </button>
 
-<button id="order2"> Beställ </button>
 
 ## Article 3
 
@@ -22,5 +20,7 @@ Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots 
 
 <button id="read-article-3"> Läst artikel </button>
 
-<button id="order2"> Beställ </button>
+
+
+<button id="orderButton"> Beställ </button>
 
